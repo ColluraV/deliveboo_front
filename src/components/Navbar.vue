@@ -5,18 +5,7 @@ export default {
 </script>
 
 <template>
-  <!--<nav class="container-fluid d-flex align-items-baseline justify-content-between">
-    <div class="d-flex text-decoration-none gap-4">
-      <RouterLink :to="{ name: 'welcome' }" class="text-decoration-none logo_text">DeliveBoo</RouterLink>
-      <RouterLink :to="{ name: 'home' }" class="btn my-button text-decoration-none">Homepage</RouterLink>
-    </div>
 
-    <div class="d-flex text-decoration-none gap-4">
-      <RouterLink :to="{ name: 'about' }" class="btn my-button text-decoration-none">About us</RouterLink>
-      <a class="btn my-button text-decoration-none " href="http://127.0.0.1:8000/dashboard">Area <br> Ristoratori</a>
-    </div>
-
-  </nav>-->
 
   <nav class="navbar navbar-expand-sm sticky-top">
     <div class="container-fluid align-items-center d-flex justify-content-between">
